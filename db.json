@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "nata",
+      "number": "459-12-56",
+      "id": "8a943fdf-c29f-4de2-928c-eba1352bb1e5"
+    },
+    {
+      "name": "Roman",
+      "number": "459-12-56",
+      "id": "1e778ef3-f32b-4d40-86c0-9ec702fc8764"
+    },
+    {
+      "name": "RomanK",
+      "number": "459-12-56",
+      "id": "7e662748-290f-4039-91a5-8ed95bcbd0df"
+    },
+    {
+      "name": "Vasiliy",
+      "number": "424214",
+      "id": "ccdb9122-b42f-4cfa-a6e7-0865742be231"
+    }
+  ]
+}
